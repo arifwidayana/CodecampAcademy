@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_1">30dp</dimen>
+    <dimen name="title_2">24dp</dimen>
+    <dimen name="title_3">20dp</dimen>
+    <dimen name="headline">18dp</dimen>
+    <dimen name="sub_headline">16dp</dimen>
+    <dimen name="button">16dp</dimen>
+    <dimen name="body">14dp</dimen>
+    <dimen name="caption_1">12dp</dimen>
+    <dimen name="caption_2">10dp</dimen>
+</resources>

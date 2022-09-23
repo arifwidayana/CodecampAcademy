@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    #Primary Color
+    <color name="primary_100">#E0EFF6</color>
+    <color name="primary_200">#C3DFED</color>
+    <color name="primary_300">#95B4C9</color>
+    <color name="primary_400">#667E96</color>
+    <color name="primary_500">#2D3E50</color>
+    <color name="primary_600">#1F3044</color>
+    <color name="primary_700">#152439</color>
+    <color name="primary_800">#0E192D</color>
+    <color name="primary_900">#091126</color>
+
+    #Success Color
+    <color name="success_100">#CEF9CC</color>
+    <color name="success_200">#9CF3A2</color>
+    <color name="success_300">#66DC7B</color>
+    <color name="success_400">#3CBC5F</color>
+    <color name="success_500">#0F8E3D</color>
+    <color name="success_600">#0C793F</color>
+    <color name="success_700">#07663E</color>
+    <color name="success_800">#045238</color>
+    <color name="success_900">#014433</color>
+
+    #Info Color
+    <color name="info_100">#C8FBF6</color>
+    <color name="info_200">#94F7F4</color>
+    <color name="info_300">#5DE1E6</color>
+    <color name="info_400">#35BED0</color>
+    <color name="info_500">#0190B2</color>
+    <color name="info_600">#006F9A</color>
+    <color name="info_700">#015182</color>
+    <color name="info_800">#003B67</color>
+    <color name="info_900">#002B55</color>
+
+    #Warning Color
+    <color name="warning_100">#FBF2CB</color>
+    <color name="warning_200">#FADF9A</color>
+    <color name="warning_300">#ECC464</color>
+    <color name="warning_400">#DBA53B</color>
+    <color name="warning_500">#C47C06</color>
+    <color name="warning_600">#A86304</color>
+    <color name="warning_700">#8D4D03</color>
+    <color name="warning_800">#713A02</color>
+    <color name="warning_900">#5D2C01</color>
+
+    #Danger Color
+    <color name="danger_100">#FBE1D2</color>
+    <color name="danger_200">#F9BCA7</color>
+    <color name="danger_300">#EC8D79</color>
+    <color name="danger_400">#D96055</color>
+    <color name="danger_500">#C02425</color>
+    <color name="danger_600">#A61A27</color>
+    <color name="danger_700">#891226</color>
+    <color name="danger_800">#6F0B25</color>
+    <color name="danger_900">#5C0623</color>
+
+</resources>
